@@ -2,6 +2,11 @@
 
 Mi configuración de tmux
 
+# para que funcione el cipiar Pegar
+```
+brew install reattach-to-user-namespace
+```
+
 # Esto va en mi archivo .zshrc 
 ```
 function tat {
