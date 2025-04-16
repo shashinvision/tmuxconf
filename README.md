@@ -25,4 +25,4 @@ function tat {
 ```
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-### Con el prefijo, en este caso control + x y luego Shift + i se instalan los plugins, con Shift + u Se actualizan
+### Con el prefijo, en este caso control + b y luego Shift + i se instalan los plugins, con Shift + u Se actualizan
