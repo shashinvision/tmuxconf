@@ -17,7 +17,7 @@ git clone https://github.com/shashinvision/tmuxconf.git ~/tmuxconf
 Esto permite que tmux use directamente el archivo clonado como configuración:
 
 ```bash
-ln -s ~/tmuxconf/tmux.conf ~/.tmux.conf
+ln -s ~/tmuxconf/.tmux.conf ~/.tmux.conf
 ```
 
 > ⚠️ Si ya tienes un `.tmux.conf`, respáldalo primero:
